@@ -1,4 +1,5 @@
 # TDD Test Driven Development
+TDD is a practice where you create the test 1st and then the code in order to pass those tests.
 ![](images/TDD_diagram.png)
 ## Type of testing
 - Unit Testing
@@ -17,3 +18,7 @@
 - Create a file to write test code
 - Run the tests (it will fail)
 - Refactor and add code to pass the tests
+
+#### **Naming Convention**
+- file name: simple_calc
+- test file name: test_simple_calc
