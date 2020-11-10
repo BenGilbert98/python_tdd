@@ -23,6 +23,9 @@ TDD is a practice where you create the test 1st and then the code in order to pa
 - file name: simple_calc
 - test file name: test_simple_calc
 
+#### **Function Names**
+- test function names must start with "test" so that Python can recognise it as a test function
+
 ## pytest commands
 - ```python -m unittest discover -v``` 
 - ```python -m pytest -v ```
