@@ -1,5 +1,5 @@
 # TDD Test Driven Development
-
+![](images/TDD_diagram.png)
 ## Type of testing
 - Unit Testing
 - TDD
