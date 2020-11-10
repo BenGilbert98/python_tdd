@@ -1,4 +1,4 @@
-# TDD Test Driven Development
+# TDD (Test Driven Development)
 TDD is a practice where you create the test 1st and then the code in order to pass those tests.
 ![](images/TDD_diagram.png)
 ## Type of testing
@@ -6,8 +6,8 @@ TDD is a practice where you create the test 1st and then the code in order to pa
 - TDD
 
 ## Modules to help test code
-- pytest
-- unittest
+- pytest (``` pip install pytest```) in terminal
+- unittest (including in python already)
 
 ## Why do we use TDD?
 - To make sure the code is functioning properly before it is shipped
@@ -22,3 +22,7 @@ TDD is a practice where you create the test 1st and then the code in order to pa
 #### **Naming Convention**
 - file name: simple_calc
 - test file name: test_simple_calc
+
+## pytest commands
+- ```python -m unittest discover -v``` 
+- ```python -m pytest -v ```
